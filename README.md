@@ -181,3 +181,6 @@ These images seem simple to classify since there are well lit and contain no bac
 
 
 The model was able to correctly guess all of the traffic signs, which gives an accuracy of 100%. Finally, we check the top five softmax probabilities of the predictions. This is to check the confidence with which our model has made these predictions. For these images, we find that the model is almost 100% confident about its predictions. This makes sense since the images seemed easy to classify.
+
+## References
+This project is submitted as partial fulfillment of the Udacity's Self-Driving Car Engineer Nanodegree program. The helper code is available [here](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project).
